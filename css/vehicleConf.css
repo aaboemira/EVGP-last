@@ -89,9 +89,7 @@ height: 100%;
 .E3{
 	
 }
-.E2{
-	height: 450px;
-}
+
 @media (min-width: 1300px) { 
 
 .d2 .table td, .d2 .table th{
@@ -119,4 +117,7 @@ height: 100%;
 	.items .part a {
 		font-size: 1.4vw;
 	}
+	.E2{
+	height: 450px;
+}
 }
