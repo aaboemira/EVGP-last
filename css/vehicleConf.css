@@ -86,10 +86,6 @@ height: 100%;
 .red{
 	color: red;
 }
-.E3{
-	
-}
-
 @media (min-width: 1300px) { 
 
 .d2 .table td, .d2 .table th{
@@ -109,6 +105,11 @@ height: 100%;
 
 	font-size:0.8vw;
 
+}
+}
+@media (min-width: 991px) and (max-width: 1300px){
+	.E2{
+	height: 480px;
 }
 @media(max-width: 991px){
 	.option{
